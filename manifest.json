@@ -1,0 +1,34 @@
+{
+  "name": "Tâches - Organisation Optimale",
+  "short_name": "Tâches",
+  "description": "Une application de gestion de tâches élégante et moderne",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#faf9f7",
+  "theme_color": "#2d5a3d",
+  "orientation": "portrait-primary",
+  "categories": ["productivity", "utilities"],
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "/placeholder.svg?height=192&width=192",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/placeholder.svg?height=512&width=512",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/placeholder.svg?height=640&width=360",
+      "sizes": "360x640",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ]
+}
